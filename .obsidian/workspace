@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "6e91ea43b5151043",
+    "type": "split",
+    "children": [
+      {
+        "id": "339a3d8a0f034ee0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0a91a88964adeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a08a01440a1a7878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82355b548878f34d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ec900b2a7ad6a58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35e9db05298d4826",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f87324a179702174",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db7a532346ed906e",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9f89fce3eb9728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc12f6959a9bf77f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8e0153821d8c1c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38377a339faa5294",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16d125e6bc2a038f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "339a3d8a0f034ee0",
+  "lastOpenFiles": [
+    "source/_posts/Java/JavaTest.md",
+    "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+    "scaffolds/draft.md",
+    "scaffolds/page.md",
+    "scaffolds/post.md",
+    "source/_obsidian/Post Template.md.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/test.md"
+  ]
+}
