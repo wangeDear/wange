@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+            "file": "source/_posts/hello-world.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+                "file": "source/_posts/hello-world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+                "file": "source/_posts/hello-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/分类测试1/分类测试11/分类测试11文件.md"
+                "file": "source/_posts/hello-world.md"
               }
             }
           }
@@ -139,8 +138,8 @@
   },
   "active": "339a3d8a0f034ee0",
   "lastOpenFiles": [
-    "source/_posts/Java/JavaTest.md",
     "source/_posts/分类测试1/分类测试11/分类测试11文件.md",
+    "source/_posts/Java/JavaTest.md",
     "scaffolds/draft.md",
     "scaffolds/page.md",
     "scaffolds/post.md",
