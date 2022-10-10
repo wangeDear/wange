@@ -8,6 +8,8 @@ JavaTest
 
 [[__note__/hexo-blog/source/_posts/Database/分库分表id生成]]
 
+test
+
 
 
 
