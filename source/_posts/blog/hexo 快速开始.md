@@ -36,8 +36,6 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-{% post_link 'test/JavaTest' %}
-
 [hexo-g](hexo-g.bat)
 
 

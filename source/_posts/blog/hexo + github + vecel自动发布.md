@@ -40,7 +40,7 @@ github不支持，需要使用gh cli，具体查看官方文档。
 ## hexo实现obsidian双链笔记
 
 - hexo-obsidian-link
-利用hexo-obsidian-link插件将[[]]转为hexo能识别的{% post_link %}标志，不会对现有日志文件做任何改动。
+利用hexo-obsidian-link插件将[[]]转为hexo能识别的post_link标志，不会对现有日志文件做任何改动。
 
 - hexo-enhancer
 自动生成title、categories、date等hexo元标签，避免在日志文件生成多余内容
