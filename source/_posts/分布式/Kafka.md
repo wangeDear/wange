@@ -11,3 +11,5 @@
 	- 强一致性，单实例数据库、[[Mysql事务隔离级别]]
 - Availability 可用性
 - Partition tolerance 分区容错性
+![[Drawing 2022-10-11 15.05.45.excalidraw]]
+
