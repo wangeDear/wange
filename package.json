@@ -18,7 +18,7 @@
     "hexo-backlink": "^0.1.4",
     "hexo-enhancer": "file:hexo-enhancer",
     "hexo-generator-archive": "^1.0.0",
-    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-tag": "^1.0.0",
     "hexo-obsidian-link": "file:hexo-obsidian-link",
